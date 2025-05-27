@@ -15,4 +15,5 @@ dependencies = [
     "prophet==1.1.5",
     "python-dateutil==2.8.2",
     "scikit-learn==1.4.0",
+    "uv>=0.7.8",
 ]
